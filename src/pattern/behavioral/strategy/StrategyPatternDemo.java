@@ -1,4 +1,4 @@
-package pattern.strategy;
+package pattern.behavioral.strategy;
 
 import pattern.creational.factory.ShapeFactory;
 import pojo.Shape;

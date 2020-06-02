@@ -5,4 +5,4 @@
  * @author saukedia1
  *
  */
-package pattern.strategy;
+package pattern.behavioral.strategy;

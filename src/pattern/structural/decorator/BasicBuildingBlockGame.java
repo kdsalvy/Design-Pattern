@@ -1,4 +1,4 @@
-package pattern.decorator;
+package pattern.structural.decorator;
 
 import java.util.HashMap;
 import java.util.Map;

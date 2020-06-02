@@ -4,4 +4,4 @@
  * 
  * @author saukedia1
  */
-package pattern.decorator;
+package pattern.structural.decorator;

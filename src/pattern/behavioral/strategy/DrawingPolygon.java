@@ -1,4 +1,4 @@
-package pattern.strategy;
+package pattern.behavioral.strategy;
 
 import pojo.Shape;
 

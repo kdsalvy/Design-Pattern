@@ -1,4 +1,4 @@
-package pattern.observer;
+package pattern.behavioral.observer;
 
 public interface Subject {
 

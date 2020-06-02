@@ -1,4 +1,4 @@
-package pattern.observer;
+package pattern.behavioral.observer;
 
 import java.util.HashMap;
 import java.util.Map;

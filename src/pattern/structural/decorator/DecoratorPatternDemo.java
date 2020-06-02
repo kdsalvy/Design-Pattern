@@ -1,4 +1,4 @@
-package pattern.decorator;
+package pattern.structural.decorator;
 
 public class DecoratorPatternDemo {
 

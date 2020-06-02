@@ -1,4 +1,4 @@
-package pattern.observer;
+package pattern.behavioral.observer;
 
 import pattern.creational.factory.ShapeFactory;
 import pojo.Shape;

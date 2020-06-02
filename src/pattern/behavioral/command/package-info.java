@@ -4,4 +4,4 @@
  * @author saukedia1
  *
  */
-package pattern.command;
+package pattern.behavioral.command;
